@@ -1,2 +1,2 @@
-# AUEB Project of Τechnological Development Innovation and Entrepreneurship
+# Assignment of Τechnological Development Innovation and Entrepreneurship from AUEB
 This project is developed as part of the course Technological Development, Innovation and Entrepreneurship, taught by Dr. Angeliki Karagiannaki. It explores practical and theoretical aspects of innovation, entrepreneurship, and emerging technologies, aiming to provide students with real-world insights into how technological ideas evolve into impactful business ventures. 
