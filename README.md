@@ -9,7 +9,7 @@ The main objective of this assignment is to:
 - Apply practical tools and frameworks, such as the Business Model Canvas, to conceptualize and validate startup ideas.
 
 ### Our Concept: **FitMind**
-The project focuses on **FitMind**, an innovative application designed to promote mental wellness through personalized digital experiences. Each part of the assignment walks through stages of ideation, market analysis, business modeling, and pitching.
+The project focuses on **FitMind**, an innovative application designed to promote physical and mental wellness through personalized digital experiences. Each part of the assignment walks through stages of ideation, market analysis, business modeling, and pitching.
 
 ### 📁 Repository Structure
 - `part1.pdf`: Initial concept and problem statement
